@@ -1,0 +1,7 @@
+Enoncé
+Le système éducatif est constitué d'apprenants.Parmi ses apprenants, nous disposons de 
+plusieurs catégories dont: les élèves et les étudiants. Chaque apprenant porte un nom,
+un prénom,un âge,un statut.Ils étudient tous afin de réussir à la fin de 
+l'année académique. Les élèves sont dans des classes,ont des notes d'interrogations et une note de devoir dans chaque matière,
+tandis que les étudiants sont dans des filières et ont une note de Contrôle et une note d'examen.
+Le calcul de Moyenne Générale diffère selon la catégorie d'apprenant. 
